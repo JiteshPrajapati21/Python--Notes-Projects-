@@ -1,2 +1,19 @@
-# Python--Notes-Projects-
-You will find python notes as well as project that are made my me and useful 
+# Python Learning & Projects
+
+This repository contains my Python notes, practice programs, and projects that I create while learning Python.
+
+## What I'm Learning
+
+- Python fundamentals
+- Functions
+- Object-Oriented Programming
+- File handling
+- APIs
+- Problem solving
+
+## Projects
+
+- Project 1 — [name]
+- Project 2 — [name]
+
+
