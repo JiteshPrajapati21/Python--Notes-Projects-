@@ -13,7 +13,7 @@ This repository contains my Python notes, practice programs, and projects that I
 
 ## Projects
 
-- Project 1 — [name]
-- Project 2 — [name]
+- Project 1 
+- Project 2 
 
 
